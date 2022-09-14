@@ -1,7 +1,8 @@
-### kdw profile
+## KDW profile :blush:
 ---
-**name** : ko dong won
-**number** : 010-3431-****
+:computer: **name** : ko dong won  
+:telephone_receiver: **number** : 010-3431-****  
+:email: **email** : dw9706@naver.com
 
 
 
