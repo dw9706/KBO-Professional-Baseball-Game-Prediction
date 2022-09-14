@@ -1,4 +1,9 @@
-### Hi there 👋
+### kdw profile
+---
+**name** : ko dong won
+**number** : 010-3431-****
+
+
 
 <!--
 **dw9706/dw9706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
